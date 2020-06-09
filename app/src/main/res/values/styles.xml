@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+        <color name="pink">#FD4445</color>
+        <color name="white">#FFFFFF</color>
+        <color name="lightBlue">#0091cf</color>
+        <color name="darkBlue">#01395E</color>
+        <color name="yellow">#6AFFAF00</color>
+        <color name="black">#000000</color>
+</resources>
